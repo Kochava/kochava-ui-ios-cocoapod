@@ -1,0 +1,23 @@
+PODS:
+  - KochavaCoreiOS (4.0.0)
+  - KochavaUIiOS (4.0.0):
+    - KochavaCoreiOS (~> 4.0.0)
+
+DEPENDENCIES:
+  - KochavaUIiOS (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - KochavaCoreiOS
+
+EXTERNAL SOURCES:
+  KochavaUIiOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KochavaCoreiOS: cd8162292c03ae61dea4325ca1e67a1901b1ab0a
+  KochavaUIiOS: 19decd1613f12188a30f2fa5293fcdf44b36034c
+
+PODFILE CHECKSUM: df3df9ba89bd56d1403934e9f8990d93658e4e59
+
+COCOAPODS: 1.8.4

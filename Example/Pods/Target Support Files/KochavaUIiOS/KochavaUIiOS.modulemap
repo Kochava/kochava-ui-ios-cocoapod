@@ -1,0 +1,6 @@
+framework module KochavaUIiOS {
+  umbrella header "KochavaUIiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
