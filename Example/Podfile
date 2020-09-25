@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KochavaUIiOS_Example' do
+  pod 'KochavaUIiOS', :path => '../'
+
+  target 'KochavaUIiOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
