@@ -1,7 +1,7 @@
 # KochavaUIiOS
 
 [![Version](https://img.shields.io/cocoapods/v/KochavaUIiOS.svg?style=flat)](https://cocoapods.org/pods/KochavaUIiOS)
-[![Download](https://api.bintray.com/packages/kochava/ios/ui/images/download.svg)](https://bintray.com/kochava/ios/ui/_latestVersion)
+[![Download](https://api.bintray.com/packages/kochava/apple/ui/images/download.svg)](https://bintray.com/kochava/apple/ui/_latestVersion)
 [![License](https://img.shields.io/cocoapods/l/KochavaUIiOS.svg?style=flat)](https://cocoapods.org/pods/KochavaUIiOS)
 [![Platform](https://img.shields.io/cocoapods/p/KochavaUIiOS.svg?style=flat)](https://cocoapods.org/pods/KochavaUIiOS)
 
@@ -24,7 +24,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## Dependencies
 
 * [KochavaCore](https://cocoapods.org/pods/KochavaCoreiOS)
-[![Version](https://img.shields.io/cocoapods/v/KochavaCoreiOS.svg?style=flat)](https://cocoapods.org/pods/KochavaCoreiOS) [ ![Download](https://api.bintray.com/packages/kochava/ios/core/images/download.svg) ](https://bintray.com/kochava/ios/core/_latestVersion)
+[![Version](https://img.shields.io/cocoapods/v/KochavaCoreiOS.svg?style=flat)](https://cocoapods.org/pods/KochavaCoreiOS) [ ![Download](https://api.bintray.com/packages/kochava/apple/core/images/download.svg) ](https://bintray.com/kochava/apple/core/_latestVersion)
 
 ## Installation
 
