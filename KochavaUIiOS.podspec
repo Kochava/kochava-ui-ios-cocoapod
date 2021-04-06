@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KochavaUIiOS'
-  s.version          = '4.4.0'
+  s.version          = '4.5.0'
   s.summary          = 'The KochavaUI module of the Kochava iOS SDK.'
 
 # This description is used to generate tags and improve search results.
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
 
   s.public_header_files = 'KochavaUIiOS/Classes/**/*.h'
   s.frameworks   = 'Foundation', 'UIKit'
-  s.dependency 'KochavaCoreiOS', '~> 4.4.0'
+  s.dependency 'KochavaCoreiOS', '~> 4.5.0'
 
   s.platform     = :ios, '10.3'
   s.vendored_library = 'KochavaUIiOS/Libraries/libKochavaUIiOS.a'

@@ -1,7 +1,7 @@
 PODS:
-  - KochavaCoreiOS (4.4.0)
-  - KochavaUIiOS (4.4.0):
-    - KochavaCoreiOS (~> 4.4.0)
+  - KochavaCoreiOS (4.5.0)
+  - KochavaUIiOS (4.5.0):
+    - KochavaCoreiOS (~> 4.5.0)
 
 DEPENDENCIES:
   - KochavaUIiOS (from `../`)
@@ -15,8 +15,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KochavaCoreiOS: fe632a9316959aa0f5efb1f428037028db941e23
-  KochavaUIiOS: c6feca29b72ec349270ca597255424785bcc03bc
+  KochavaCoreiOS: 70fafcb7739358232b05fb95b1acbce643ca2ce3
+  KochavaUIiOS: c1dab0fbcc385a5e02e23127170b858f84cf2d93
 
 PODFILE CHECKSUM: df3df9ba89bd56d1403934e9f8990d93658e4e59
 
